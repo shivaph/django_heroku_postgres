@@ -1,1 +1,1 @@
-# django_heroku_postgres
+# django_firebase
